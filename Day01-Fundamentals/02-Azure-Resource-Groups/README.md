@@ -100,3 +100,34 @@ No cleanup is required. This lab uses a data source and does not create Azure re
 See [SCREENSHOTS.md](SCREENSHOTS.md).
 
 Screenshots are stored in the images directory and must show genuine results from the student's environment.
+
+## Screenshot Evidence
+
+The following screenshots demonstrate the successful completion of this lab.
+
+### 1. Cloud Shell Environment
+![Cloud Shell environment](images/01-cloud-shell-environment.png)
+
+### 2. Terraform Version
+![Terraform CLI version](images/02-terraform-version.png)
+
+### 3. Terraform Configuration
+![Terraform configuration files](images/03-terraform-configuration.png)
+
+### 4. Terraform Initialisation
+![Terraform init](images/04-terraform-init.png)
+
+### 5. AzureRM Provider Version
+![AzureRM provider version](images/05-provider-version.png)
+
+### 6. Dependency Lock File
+![Terraform lock file](images/06-lock-file.png)
+
+### 7. Terraform Validation
+![Terraform validate](images/07-terraform-validate.png)
+
+### 8. Terraform Plan
+![Terraform plan](images/08-terraform-plan.png)
+
+### 9. Resource Group Details
+![Azure resource group details](images/09-resource-group-details.png)
